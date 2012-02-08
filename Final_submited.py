@@ -1,4 +1,4 @@
-#Here is my code.
+#Here is my decruft code.
 # importing file.
 from decruft import Document
 import urllib2
